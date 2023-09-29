@@ -4,6 +4,6 @@ This is my attempt of fcc machine learning projects. Not finished to the end, WI
 
 ## Content
 
-* [Neural Network SMS Text Classifier](./sms-text/README.md)
-* [Linear Regression Health Costs Calculator](./linear-regression/README.md)
-* [Book Recommendation Engine using KNN](./book-recommendation/README.md)
+* Neural Network SMS Text Classifier
+* Linear Regression Health Costs Calculator
+* Book Recommendation Engine using KNN
