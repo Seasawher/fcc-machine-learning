@@ -1,0 +1,9 @@
+[submodule "sms-text"]
+	path = sms-text
+	url = https://github.com/Seasawher/neural-network-sms-text-classifier.git
+[submodule "linear-regression"]
+	path = linear-regression
+	url = https://github.com/Seasawher/linear-regression.git
+[submodule "book-recommendation"]
+	path = book-recommendation
+	url = https://github.com/Seasawher/book-recommendation.git
